@@ -1,0 +1,6 @@
+bin
+build*
+dist
+logs
+__pycache__
+*.spec
