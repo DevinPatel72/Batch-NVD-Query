@@ -12,11 +12,6 @@ NOTE:
   The delay argument must be a integer/float greater than or equal to 0.6 (seconds).
 
 Execution:
-  Execute from binary:
-    $ ./bin/<Windows or Linux>/fetch-nvd-cve --help
-
-
-  Execute from python file:
     Ensure nvdlib and all its dependencies are installed:
         $ pip install -r requirements.txt
           -or-
